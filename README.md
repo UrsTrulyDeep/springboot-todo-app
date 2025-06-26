@@ -84,9 +84,15 @@ The app will start on:
 `http://localhost:8080`
 
 ---
+
 ## 📬 Postman Collection
 
-✅ [Download Postman Collection](./postman/SpringBootTodoApp_Postman_Collection.json)
+✅ [Download Postman Collection](https://github.com/UrsTrulyDeep/springboot-todo-app/blob/main/src/main/postman/SpringBootTodoApp_Postman_Collection.json?raw=true)
+
+You can directly import this collection into Postman or Thunder Client to test all API endpoints.
+
+---
+
 ## 📫 Contact
 
 Made with ❤️ by Deep Kushwaha
